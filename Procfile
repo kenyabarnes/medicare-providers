@@ -1,1 +1,1 @@
-web : gunicorn medicare-provider.wsgi --log-file
+web:gunicorn medicare-provider.wsgi --log-file
